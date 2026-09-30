@@ -8,4 +8,4 @@
 ## Technical Background
 I have been studying at GVSU for the past 4 years for computer science and am finalizing my master's degree still at GV. I have a part time job working as a developer for Alta Vista Technology.
 
-![Meme showing the difference between Python programmers and C++ programmers.][(https://programmerhumor.io/python-memes/threelinesofcode/)](https://programmerhumor.io/python-memes/threelinesofcode/)
+![Meme showing the difference between Python programmers and C++ programmers.](https://programmerhumor.io/python-memes/threelinesofcode/)
